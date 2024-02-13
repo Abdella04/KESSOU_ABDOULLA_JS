@@ -1,0 +1,9 @@
+body{
+    margin: 0%;
+    background-color: blueviolet;
+}
+@media (max-width=200px){
+    h1{
+        color: blanchedalmond;
+    }
+}
